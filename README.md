@@ -1,4 +1,4 @@
-```
+
 # BankIT-Track
 
 ## Présentation
@@ -65,7 +65,7 @@ python manage.py migrate
 
 # 4) Lancer le serveur
 python manage.py runserver
-```
+
 
 ---
 
