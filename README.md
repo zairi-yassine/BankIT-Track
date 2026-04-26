@@ -82,10 +82,4 @@ python manage.py runserver
 
 ---
 
-## Auteurs
-- @zairi-yassine
 
----
-
-## Licence
-À définir.
